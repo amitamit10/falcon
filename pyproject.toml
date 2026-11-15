@@ -1,0 +1,20 @@
+[project]
+name = "tradingbot"
+version = "0.1.0"
+license = {text = "MIT"}
+readme = "README.md"
+description = "Falcon: calibrated gradient-boosting rankings and a real-world paper-trading simulator for TA-125 stocks (research only)"
+requires-python = ">=3.11"
+dependencies = ["pandas>=2", "numpy>=1.26", "scikit-learn>=1.4", "yfinance>=0.2.40", "lightgbm>=4.0", "matplotlib>=3.8"]
+
+[project.optional-dependencies]
+dev = ["pytest", "pypdf>=4.0"]
+
+[project.scripts]
+tradingbot = "tradingbot.falcon_cli:main"
+
+[tool.setuptools]
+packages = ["tradingbot"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

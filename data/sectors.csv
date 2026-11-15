@@ -1,0 +1,544 @@
+ticker,sector,industry
+ABOU.TA,Healthcare,Medical Devices
+ABRA.TA,Technology,Software - Application
+ACCL.TA,Technology,Electronics & Computer Distribution
+ACKR.TA,Basic Materials,Building Materials
+ADGR.TA,Real Estate,Real Estate Services
+AFHL.TA,Technology,Electronic Components
+AFPR.TA,Real Estate,Real Estate Services
+AFRE.TA,Real Estate,Real Estate - Development
+AGRD.TA,Industrials,Aerospace & Defense
+AILN.TA,Technology,Software - Infrastructure
+ALAR.TA,Technology,Software - Infrastructure
+ALBA.TA,Consumer Defensive,Household & Personal Products
+ALHE.TA,Real Estate,Real Estate Services
+ALL.TA,Industrials,Waste Management
+ALLT.TA,Technology,Software - Infrastructure
+ALMA.TA,Consumer Cyclical,Residential Construction
+ALMD.TA,Healthcare,Medical Devices
+ALMY.TA,Industrials,Engineering & Construction
+ALRE.TA,Real Estate,Real Estate - Development
+ALTF.TA,Financial Services,Asset Management
+ALUMA.TA,Financial Services,Asset Management
+AMAL.TA,Healthcare,Medical Care Facilities
+AMAN.TA,Industrials,Conglomerates
+AMD.TA,Industrials,Pollution & Treatment Controls
+AMDA.TA,Healthcare,Health Information Services
+AMOT.TA,Real Estate,Real Estate Services
+AMPA.TA,Industrials,Conglomerates
+AMRK.TA,Basic Materials,Agricultural Inputs
+AMRM.TA,Real Estate,Real Estate Services
+AMX.TA,Consumer Cyclical,Auto & Truck Dealerships
+ANGL.TA,Consumer Defensive,Confectioners
+ANLT.TA,Financial Services,Asset Management
+APLP.TA,Technology,Solar
+ARAN.TA,Industrials,Conglomerates
+ARBE.TA,Technology,Scientific & Technical Instruments
+ARD.TA,Technology,Scientific & Technical Instruments
+ARDM.TA,Consumer Defensive,Education & Training Services
+ARF.TA,Energy,Oil & Gas Refining & Marketing
+ARGO.TA,Real Estate,Real Estate Services
+ARIN.TA,Real Estate,Real Estate Services
+ARNG.TA,Industrials,Specialty Industrial Machinery
+ARPT.TA,Real Estate,Real Estate Services
+ARYT.TA,Industrials,Aerospace & Defense
+ASGR.TA,Real Estate,Real Estate Services
+ASHG.TA,Real Estate,Real Estate - Development
+ASHO.TA,Industrials,Aerospace & Defense
+ATRY.TA,Financial Services,Capital Markets
+AUDC.TA,Technology,Communication Equipment
+AUIS.TA,Real Estate,Real Estate Services
+AURA.TA,Real Estate,Real Estate - Development
+AUSA.M.TA,Unknown,Unknown
+AVER.TA,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+AVGD.TA,Real Estate,Real Estate - Development
+AVGL.TA,Consumer Cyclical,Textile Manufacturing
+AVIA.TA,Consumer Cyclical,Travel Services
+AVIV.TA,Industrials,Engineering & Construction
+AVRT.TA,Industrials,Metal Fabrication
+AVSR.TA,Real Estate,Real Estate - Development
+AXN.TA,Unknown,Unknown
+AYAL.TA,Financial Services,Insurance - Diversified
+AZRG.TA,Real Estate,Real Estate Services
+AZRM.TA,Consumer Cyclical,Residential Construction
+AZRT.TA,Real Estate,REIT - Diversified
+BARI.TA,Financial Services,Asset Management
+BBLS.TA,Financial Services,Credit Services
+BEZQ.TA,Communication Services,Telecom Services
+BGRA.TA,Industrials,Aerospace & Defense
+BHNY.TA,Consumer Defensive,Packaged Foods
+BHST.TA,Consumer Defensive,Packaged Foods
+BIG.TA,Real Estate,Real Estate Services
+BIGT.TA,Financial Services,Asset Management
+BIMT.TA,Financial Services,Asset Management
+BIOV.TA,Healthcare,Medical Devices
+BIRM.TA,Industrials,Building Products & Equipment
+BITC.TA,Industrials,Pollution & Treatment Controls
+BKFR.TA,Healthcare,Medical Care Facilities
+BKRY.TA,Consumer Defensive,Food Distribution
+BLDI.TA,Consumer Defensive,Packaged Foods
+BLEG.TA,Financial Services,Credit Services
+BLGO.TA,Real Estate,Real Estate Services
+BLITZ.TA,Consumer Cyclical,Auto Manufacturers
+BLND.TA,Financial Services,Credit Services
+BLRN.TA,Technology,Computer Hardware
+BLRX.TA,Healthcare,Biotechnology
+BLSR.TA,Real Estate,Real Estate Services
+BLWV.M.TA,Unknown,Unknown
+BOLT.TA,Healthcare,Biotechnology
+BONS.TA,Healthcare,Biotechnology
+BOTI.TA,Real Estate,Real Estate Services
+BRAM.TA,Consumer Cyclical,Packaging & Containers
+BRAN.TA,Industrials,Engineering & Construction
+BRIH.TA,Industrials,Building Products & Equipment
+BRIL.TA,Consumer Cyclical,Apparel Retail
+BRKT.TA,Financial Services,Credit Services
+BRMG.TA,Technology,Electronics & Computer Distribution
+BSEN.TA,Industrials,Aerospace & Defense
+BSTG.TA,Real Estate,Real Estate Services
+BUFT.TA,Communication Services,Electronic Gaming & Multimedia
+BVC.TA,Healthcare,Medical Instruments & Supplies
+BVGG.TA,Consumer Cyclical,Residential Construction
+BWAY.TA,Healthcare,Medical Devices
+BYON.M.TA,Unknown,Unknown
+CAMT.TA,Technology,Semiconductor Equipment & Materials
+CANF.TA,Healthcare,Biotechnology
+CAST.TA,Consumer Cyclical,Apparel Retail
+CBI.TA,Healthcare,Biotechnology
+CDEV.TA,Industrials,Conglomerates
+CEL.TA,Communication Services,Telecom Services
+CGEN.TA,Healthcare,Biotechnology
+CILO.TA,Real Estate,Real Estate - Development
+CISY.TA,Technology,Scientific & Technical Instruments
+CLIS.TA,Financial Services,Insurance - Life
+CMDR.TA,Technology,Information Technology Services
+CMER.TA,Technology,Communication Equipment
+CNDO.TA,Technology,Computer Hardware
+CNGL.TA,Industrials,Engineering & Construction
+CNTL.M.TA,Unknown,Unknown
+CNZN.M.TA,Unknown,Unknown
+CONX.TA,Basic Materials,Steel
+CPPL.TA,Consumer Cyclical,Residential Construction
+CPTP.TA,Financial Services,Asset Management
+CRML.TA,Consumer Defensive,Beverages - Non-Alcoholic
+CRMT.TA,Consumer Defensive,Confectioners
+CRSM.TA,Consumer Cyclical,Auto & Truck Dealerships
+CRSR.TA,Real Estate,Real Estate - Development
+CTPL1.TA,Real Estate,Real Estate Services
+CTPL5.TA,Real Estate,Real Estate Services
+CYBR.TA,Technology,Software - Infrastructure
+DANE.TA,Healthcare,Medical Care Facilities
+DANH.TA,Consumer Cyclical,Lodging
+DELG.TA,Consumer Cyclical,Apparel Manufacturing
+DIFI.TA,Financial Services,Credit Services
+DIMRI.TA,Consumer Cyclical,Residential Construction
+DIPL.TA,Consumer Defensive,Food Distribution
+DISI.TA,Real Estate,Real Estate - Development
+DLAS.TA,Real Estate,Real Estate - Development
+DLEA.TA,Consumer Cyclical,Auto & Truck Dealerships
+DLEKG.TA,Energy,Oil & Gas E&P
+DLPR.TA,Real Estate,Real Estate - Diversified
+DLTI.TA,Consumer Cyclical,Apparel Manufacturing
+DNYA.TA,Industrials,Engineering & Construction
+DORL.TA,Utilities,Utilities - Renewable
+DRAL.TA,Consumer Cyclical,Specialty Retail
+DRSL.TA,Real Estate,Real Estate Services
+DRTS.TA,Healthcare,Biotechnology
+DSCT.TA,Financial Services,Banks - Regional
+DSIT.TA,Industrials,Aerospace & Defense
+DUNI.TA,Consumer Cyclical,Residential Construction
+ECNR.TA,Utilities,Utilities - Renewable
+ECP.TA,Technology,Consumer Electronics
+EFCP.TA,Real Estate,Real Estate - Development
+EFNC.M.TA,Unknown,Unknown
+ELAD.TA,Technology,Software - Application
+ELAL.TA,Industrials,Airlines
+ELCO.TA,Industrials,Conglomerates
+ELCRE.TA,Real Estate,Real Estate Services
+ELDT.TA,Industrials,Rental & Leasing Services
+ELLO.TA,Utilities,Utilities - Renewable
+ELMR.TA,Industrials,Engineering & Construction
+ELRL.TA,Real Estate,Real Estate - Development
+ELRN.TA,Financial Services,Asset Management
+ELSPC.TA,Industrials,Electrical Equipment & Parts
+ELTR.TA,Industrials,Engineering & Construction
+ELWS.TA,Industrials,Engineering & Construction
+EMDV.TA,Financial Services,Asset Management
+ENLT.TA,Utilities,Utilities - Renewable
+ENOG.TA,Energy,Oil & Gas E&P
+ENRG.TA,Utilities,Utilities - Renewable
+EPIT.TA,Healthcare,Medical Devices
+EQTL.TA,Energy,Oil & Gas E&P
+ERKA.TA,Healthcare,Medical Devices
+ESLT.TA,Industrials,Aerospace & Defense
+ETGA.TA,Industrials,Integrated Freight & Logistics
+EVGN.TA,Healthcare,Biotechnology
+EXPO.TA,Financial Services,Banks - Regional
+FBRT.TA,Industrials,Aerospace & Defense
+FEAT.TA,Financial Services,Asset Management
+FGAS.TA,Energy,Oil & Gas Equipment & Services
+FIBI.TA,Financial Services,Banks - Regional
+FIBIH.TA,Financial Services,Banks - Regional
+FLYS.M.TA,Unknown,Unknown
+FORTY.TA,Technology,Information Technology Services
+FOX.TA,Consumer Cyclical,Apparel Manufacturing
+FRDN.TA,Industrials,Integrated Freight & Logistics
+FRSX.TA,Consumer Cyclical,Auto Parts
+FTAL.TA,Consumer Cyclical,Lodging
+G107.TA,Technology,Software - Infrastructure
+GABY.TA,Real Estate,Real Estate - Development
+GAD.TA,Consumer Defensive,Packaged Foods
+GAGR.TA,Basic Materials,Steel
+GAON.TA,Industrials,Building Products & Equipment
+GCT.TA,Real Estate,Real Estate - Diversified
+GEFR.TA,Real Estate,Real Estate - Development
+GILT.TA,Technology,Communication Equipment
+GIVO.TA,Energy,Oil & Gas E&P
+GIXI.TA,Technology,Software - Infrastructure
+GKL.TA,Industrials,Aerospace & Defense
+GLAM.TA,Consumer Defensive,Packaged Foods
+GLDE.TA,Communication Services,Telecom Services
+GLRS.TA,Consumer Defensive,Tobacco
+GLTL.TA,Communication Services,Telecom Services
+GNCL.TA,Industrials,Electrical Equipment & Parts
+GNGR.TA,Consumer Cyclical,Textile Manufacturing
+GNRS.TA,Financial Services,Asset Management
+GOHO.TA,Healthcare,Medical Care Facilities
+GOLD.TA,Industrials,Marine Shipping
+GOLF.TA,Consumer Cyclical,Specialty Retail
+GOSS.TA,Industrials,Security & Protection Services
+GOTO.TA,Unknown,Unknown
+GPAY.M.TA,Unknown,Unknown
+GRAC.TA,Unknown,Unknown
+GRIN.TA,Industrials,Building Products & Equipment
+GSFI.TA,Consumer Defensive,Beverages - Non-Alcoholic
+GVYM.TA,Real Estate,Real Estate - Development
+HAMAT.TA,Industrials,Building Products & Equipment
+HARL.TA,Financial Services,Insurance - Diversified
+HDST.M.TA,Unknown,Unknown
+HGG.TA,Real Estate,Real Estate Services
+HGGE.TA,Real Estate,Real Estate - Development
+HIPR.TA,Technology,Computer Hardware
+HLAN.TA,Technology,Information Technology Services
+HLMS.TA,Consumer Cyclical,Leisure
+HMAM.TA,Consumer Defensive,Farm Products
+HMGS.TA,Utilities,Utilities - Renewable
+HOD.TA,Basic Materials,Steel
+HRON.TA,Real Estate,Real Estate - Development
+HUMX.M.TA,Unknown,Unknown
+IBI.TA,Financial Services,Asset Management
+IBIS.TA,Financial Services,Asset Management
+IBIU.TA,Financial Services,Capital Markets
+ICHO.TA,Consumer Cyclical,Lodging
+ICL.TA,Basic Materials,Agricultural Inputs
+ICON.TA,Technology,Electronics & Computer Distribution
+IDIN.TA,Financial Services,Insurance - Diversified
+IDMO.TA,Technology,Software - Application
+IDNT.TA,Healthcare,Health Information Services
+IES.TA,Real Estate,Real Estate Services
+ILCO.TA,Basic Materials,Specialty Chemicals
+ILDC.TA,Real Estate,Real Estate Services
+ILDR.TA,Energy,Oil & Gas E&P
+ILX.TA,Healthcare,Medical Distribution
+IMCO.TA,Industrials,Aerospace & Defense
+IMED.TA,Healthcare,Health Information Services
+INCR.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+ININ.TA,Technology,Electronic Components
+INRM.TA,Basic Materials,Building Materials
+INTR.TA,Industrials,Conglomerates
+IPO.TA,Energy,Oil & Gas E&P
+ISCD.TA,Financial Services,Credit Services
+ISCN.TA,Real Estate,Real Estate - Development
+ISHI.TA,Basic Materials,Building Materials
+ISHO.TA,Real Estate,Real Estate Services
+ISI.TA,Industrials,Aerospace & Defense
+ISOP.TA,Energy,Oil & Gas E&P
+ISRA.TA,Energy,Oil & Gas E&P
+ISRG.TA,Industrials,Airlines
+ISRO.TA,Consumer Cyclical,Lodging
+ISRS.TA,Real Estate,Real Estate Services
+ISTA.TA,Consumer Cyclical,Travel Services
+JBNK.TA,Financial Services,Banks - Regional
+JCFN.TA,Financial Services,Credit Services
+JEEN.TA,Technology,Software - Infrastructure
+JNGO.TA,Technology,Software - Application
+KAFR.TA,Basic Materials,Specialty Chemicals
+KARE.TA,Real Estate,Real Estate Services
+KEN.TA,Utilities,Utilities - Independent Power Producers
+KLIL.TA,Basic Materials,Aluminum
+KMDA.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+KNFM.TA,Industrials,Airlines
+KRDI.TA,Real Estate,Real Estate Services
+KRUR.TA,Consumer Defensive,Packaged Foods
+KSTN.TA,Real Estate,REIT - Specialty
+LAHAV.TA,Consumer Cyclical,Specialty Retail
+LAPD.TA,Industrials,Engineering & Construction
+LBRA.TA,Financial Services,Insurance - Property & Casualty
+LBTL.TA,Real Estate,Real Estate Services
+LCTX.TA,Healthcare,Biotechnology
+LEOF.TA,Industrials,Engineering & Construction
+LEVI.TA,Industrials,Engineering & Construction
+LHIS.TA,Industrials,Farm & Heavy Construction Machinery
+LODZ.TA,Real Estate,Real Estate Services
+LPHL.TA,Energy,Oil & Gas Drilling
+LSCO.TA,Industrials,Engineering & Construction
+LUDN.TA,Industrials,Engineering & Construction
+LUDT.TA,Industrials,Conglomerates
+LUMI.TA,Financial Services,Banks - Regional
+LURO.TA,Real Estate,Real Estate - Development
+LUZC.TA,Technology,Software - Application
+LUZN.TA,Industrials,Engineering & Construction
+MAXO.TA,Consumer Defensive,Discount Stores
+MCLL.TA,Financial Services,Credit Services
+MCPL.TA,Technology,Information Technology Services
+MDIN.TA,Energy,Oil & Gas E&P
+MDPR.TA,Real Estate,Real Estate Services
+MDTR.TA,Real Estate,Real Estate Services
+MEDN.TA,Consumer Defensive,Farm Products
+MGDL.TA,Financial Services,Insurance - Life
+MGDO.TA,Real Estate,Real Estate - Development
+MGOR.TA,Real Estate,Real Estate - Diversified
+MGRT.TA,Real Estate,REIT - Diversified
+MIA.TA,Consumer Cyclical,Auto Manufacturers
+MIFT.TA,Financial Services,Asset Management
+MISH.TA,Financial Services,Asset Management
+MLRN.TA,Financial Services,Credit Services
+MLSR.TA,Real Estate,Real Estate Services
+MLTT.TA,Technology,Information Technology Services
+MMHD.TA,Financial Services,Insurance - Life
+MNIF.TA,Financial Services,Credit Services
+MNIN.TA,Basic Materials,Steel
+MNRT.TA,Real Estate,REIT - Diversified
+MNRV.TA,Unknown,Unknown
+MPP.TA,Financial Services,Asset Management
+MPRS.TA,Healthcare,Medical Devices
+MRG.TA,Consumer Cyclical,Home Improvement Retail
+MRHL.TA,Healthcare,Medical Care Facilities
+MRIN.TA,Financial Services,Asset Management
+MSBI.TA,Consumer Cyclical,Department Stores
+MSHR.TA,Real Estate,Real Estate Services
+MSKE.TA,Utilities,Utilities - Renewable
+MSLA.TA,Real Estate,Real Estate - Development
+MSVT.TA,Technology,Computer Hardware
+MTAV.TA,Financial Services,Asset Management
+MTLF.TA,Healthcare,Biotechnology
+MTRD.TA,Financial Services,Capital Markets
+MTRN.TA,Technology,Consumer Electronics
+MTRX.TA,Technology,Information Technology Services
+MUTG.TA,Unknown,Unknown
+MVNE.TA,Real Estate,Real Estate Services
+MYDS.TA,Financial Services,Asset Management
+MZTF.TA,Financial Services,Banks - Regional
+NAWI.TA,Financial Services,Credit Services
+NICE.TA,Technology,Software - Application
+NISA.TA,Healthcare,Medical Instruments & Supplies
+NOFR.TA,Utilities,Utilities - Renewable
+NRGN.TA,Technology,Software - Application
+NSTR.TA,Real Estate,Real Estate Services
+NTGR.TA,Real Estate,Real Estate Services
+NTML.TA,Consumer Defensive,Packaged Foods
+NTNB.TA,Real Estate,Real Estate - Development
+NTO.TA,Consumer Defensive,Food Distribution
+NURI.TA,Basic Materials,Specialty Chemicals
+NVLG.TA,Healthcare,Medical Distribution
+NVMI.TA,Technology,Semiconductor Equipment & Materials
+NVPT.TA,Energy,Oil & Gas E&P
+NWMD.TA,Energy,Oil & Gas E&P
+NXFR.M.TA,Unknown,Unknown
+NXSN.TA,Industrials,Aerospace & Defense
+NXTG.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+NXTM.TA,Communication Services,Telecom Services
+NYAX.TA,Technology,Software - Infrastructure
+ODYS.TA,Technology,Scientific & Technical Instruments
+OMCN.TA,Industrials,Engineering & Construction
+ONE.TA,Technology,Software - Application
+OPAL.TA,Financial Services,Capital Markets
+OPCE.TA,Utilities,Utilities - Independent Power Producers
+OPK.TA,Healthcare,Diagnostics & Research
+ORA.TA,Utilities,Utilities - Renewable
+ORAD.TA,Technology,Software - Infrastructure
+ORIN.TA,Industrials,Integrated Freight & Logistics
+ORL.TA,Energy,Oil & Gas Refining & Marketing
+ORMP.TA,Healthcare,Biotechnology
+ORNP.TA,Real Estate,Real Estate - Diversified
+ORON.TA,Industrials,Engineering & Construction
+ORTC.TA,Industrials,Business Equipment & Supplies
+OVRS.TA,Industrials,Integrated Freight & Logistics
+PAYT.TA,Industrials,Electrical Equipment & Parts
+PAZ.TA,Energy,Oil & Gas Refining & Marketing
+PCBT.TA,Technology,Electronic Components
+PEAX.TA,Technology,Information Technology Services
+PERI.TA,Communication Services,Advertising Agencies
+PHOE.TA,Financial Services,Insurance - Diversified
+PHTM.TA,Technology,Software - Application
+PIES.TA,Consumer Cyclical,Lodging
+PIKA.TA,Technology,Software - Application
+PLCR.TA,Consumer Cyclical,Packaging & Containers
+PLRM.TA,Industrials,Building Products & Equipment
+PLSM.TA,Healthcare,Medical Devices
+PLSN.TA,Industrials,Building Products & Equipment
+PLUR.TA,Healthcare,Biotechnology
+PMNT.TA,Technology,Software - Infrastructure
+PMVM.TA,Technology,Software - Infrastructure
+PNRG.TA,Industrials,Electrical Equipment & Parts
+POLI.TA,Financial Services,Banks - Regional
+POLP.TA,Basic Materials,Specialty Chemicals
+POLY.TA,Real Estate,Real Estate Services
+PPBT.TA,Healthcare,Biotechnology
+PPIL.TA,Consumer Cyclical,Packaging & Containers
+PRDM.TA,Consumer Defensive,Beverages - Non-Alcoholic
+PRIM.TA,Utilities,Utilities - Renewable
+PRKM.TA,Industrials,Specialty Industrial Machinery
+PRMG.TA,Consumer Defensive,Household & Personal Products
+PRPD.TA,Technology,Software - Application
+PRSK.TA,Real Estate,Real Estate - Development
+PRTC.TA,Technology,Electronic Components
+PSHM.TA,Financial Services,Asset Management
+PSRX.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+PTBL.TA,Real Estate,Real Estate - Diversified
+PTCH.TA,Energy,Oil & Gas Refining & Marketing
+PTNR.TA,Communication Services,Telecom Services
+PTX.TA,Energy,Oil & Gas E&P
+QLTU.TA,Technology,Semiconductor Equipment & Materials
+QNCO.TA,Consumer Cyclical,Resorts & Casinos
+RAFA.TA,Healthcare,Drug Manufacturers - General
+RANI.TA,Real Estate,Real Estate - Diversified
+RATI.TA,Energy,Oil & Gas E&P
+RAVD.TA,Real Estate,Real Estate Services
+RAYG.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+REKA.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+RENT.TA,Real Estate,REIT - Residential
+RESF.TA,Industrials,Aerospace & Defense
+RGAS.TA,Industrials,Waste Management
+RIMO.TA,Basic Materials,Specialty Chemicals
+RIT1.TA,Real Estate,REIT - Diversified
+RLCO.TA,Technology,Electronics & Computer Distribution
+RLRE.TA,Real Estate,Real Estate - Development
+RMLI.TA,Consumer Defensive,Grocery Stores
+RMN.TA,Financial Services,Asset Management
+RMON.TA,Industrials,Engineering & Construction
+ROBO.TA,Technology,Scientific & Technical Instruments
+ROTS.TA,Consumer Cyclical,Residential Construction
+RPAC.TA,Utilities,Utilities - Renewable
+RPCE.TA,Utilities,Utilities - Renewable
+RPOL.TA,Technology,Electronic Components
+RSEL.TA,Industrials,Aerospace & Defense
+RSTC.TA,Consumer Defensive,Packaged Foods
+RTEN.TA,Utilities,Utilities - Independent Power Producers
+RTLS.TA,Consumer Cyclical,Apparel Retail
+RTMD.M.TA,Unknown,Unknown
+RTPT.TA,Energy,Oil & Gas E&P
+RTSN.TA,Consumer Cyclical,Residential Construction
+RVL.TA,Consumer Cyclical,Auto Parts
+RZR.TA,Technology,Software - Infrastructure
+SADE.TA,Basic Materials,Other Industrial Metals & Mining
+SAE.TA,Consumer Defensive,Grocery Stores
+SANO1.TA,Consumer Defensive,Household & Personal Products
+SARN.TA,Technology,Software - Application
+SBEN.TA,Utilities,Utilities - Renewable
+SCC.TA,Communication Services,Telecom Services
+SCDX.TA,Industrials,Specialty Industrial Machinery
+SCOP.TA,Industrials,Industrial Distribution
+SEMG.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+SFRN.TA,Real Estate,Real Estate - Development
+SHAN.TA,Basic Materials,Paper & Paper Products
+SHGR.TA,Industrials,Specialty Business Services
+SHMM.TA,Technology,Software - Infrastructure
+SHNP.TA,Consumer Cyclical,Auto Parts
+SHOM.TA,Financial Services,Credit Services
+SHVA.TA,Technology,Software - Infrastructure
+SHVL.TA,Real Estate,Real Estate - Development
+SKBN.TA,Industrials,Engineering & Construction
+SKLN.TA,Consumer Cyclical,Lodging
+SLARL.TA,Real Estate,REIT - Diversified
+SLRM.TA,Technology,Computer Hardware
+SMAG.TA,Financial Services,Asset Management
+SMNR.TA,Real Estate,Real Estate Services
+SMSH.TA,Industrials,Aerospace & Defense
+SMT.TA,Real Estate,Real Estate Services
+SNCM.TA,Technology,Electronics & Computer Distribution
+SNEL.TA,Technology,Software - Application
+SNFL.TA,Utilities,Utilities - Renewable
+SOFW.TA,Healthcare,Medical Devices
+SOLA.TA,Utilities,Utilities - Independent Power Producers
+SOLR.TA,Technology,Solar
+SOLT.M.TA,Unknown,Unknown
+SONO.TA,Basic Materials,Specialty Chemicals
+SONR.TA,Real Estate,Real Estate - Diversified
+SPDV.TA,Technology,Information Technology Services
+SPEN.TA,Industrials,Engineering & Construction
+SPGS.TA,Utilities,Utilities - Regulated Gas
+SPNTC.TA,Consumer Cyclical,Textile Manufacturing
+SPRG.TA,Financial Services,Asset Management
+SRAC.TA,Financial Services,Credit Services
+SRFT.TA,Real Estate,Real Estate - Development
+STEC.TA,Financial Services,Asset Management
+STG.TA,Technology,Electronics & Computer Distribution
+STRG.TA,Healthcare,Medical Instruments & Supplies
+STRK.TA,Financial Services,Shell Companies
+STRS.TA,Consumer Defensive,Packaged Foods
+STRW.TA,Real Estate,REIT - Healthcare Facilities
+SUGT.TA,Consumer Defensive,Packaged Foods
+SVRT.M.TA,Unknown,Unknown
+TANM.TA,Industrials,Specialty Business Services
+TASE.TA,Financial Services,Financial Data & Stock Exchanges
+TATT.TA,Industrials,Aerospace & Defense
+TAYA.TA,Communication Services,Entertainment
+TDHR.TA,Real Estate,Real Estate - Development
+TDRN.TA,Technology,Consumer Electronics
+TECT.TA,Technology,Software - Application
+TEDE.TA,Technology,Electronic Components
+TEVA.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+TFRLF.TA,Consumer Cyclical,Apparel Manufacturing
+TGI.TA,Consumer Cyclical,Auto Parts
+TGTR.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+THES.TA,Industrials,Aerospace & Defense
+TIGBUR.TA,Industrials,Staffing & Employment Services
+TIGI.TA,Technology,Solar
+TKUN.M.TA,Unknown,Unknown
+TLSY.TA,Technology,Electronics & Computer Distribution
+TMIS.TA,Real Estate,Real Estate - Development
+TMRP.TA,Energy,Oil & Gas E&P
+TNDO.TA,Technology,Information Technology Services
+TOEN.TA,Energy,Oil & Gas E&P
+TOFD.TA,Technology,Software - Infrastructure
+TOPG.TA,Technology,Information Technology Services
+TPGM.TA,Consumer Defensive,Confectioners
+TRLT.TA,Utilities,Utilities - Renewable
+TRPZ.TA,Basic Materials,Specialty Chemicals
+TRX.TA,Consumer Cyclical,Internet Retail
+TSEM.TA,Technology,Semiconductors
+TSG.TA,Technology,Software - Infrastructure
+TTAM.TA,Consumer Defensive,Food Distribution
+TURB.TA,Industrials,Specialty Industrial Machinery
+UMH.TA,Real Estate,REIT - Residential
+UNCT.TA,Financial Services,Asset Management
+UNIT.TA,Technology,Scientific & Technical Instruments
+UNMI.TA,Industrials,Rental & Leasing Services
+UNTC.TA,Financial Services,Asset Management
+UNVO.M.TA,Unknown,Unknown
+UPSL.TA,Technology,Information Technology Services
+URBC.TA,Consumer Cyclical,Internet Retail
+UTRN.TA,Technology,Software - Infrastructure
+VCTR.TA,Consumer Defensive,Discount Stores
+VILR.TA,Real Estate,Real Estate Services
+VISN.TA,Industrials,Conglomerates
+VRDS.TA,Industrials,Waste Management
+VRYX.TA,Industrials,Specialty Industrial Machinery
+VTNA.TA,Real Estate,Real Estate - Development
+WATR.M.TA,Unknown,Unknown
+WESR.TA,Financial Services,Insurance - Property & Casualty
+WILC.TA,Consumer Defensive,Food Distribution
+WILK.TA,Consumer Defensive,Farm Products
+WLFD.TA,Consumer Defensive,Packaged Foods
+XTLB.TA,Healthcare,Biotechnology
+YAAZ.TA,Real Estate,Real Estate - Development
+YACO.TA,Industrials,Engineering & Construction
+YBOX.TA,Real Estate,Real Estate - Development
+YBRD.TA,Healthcare,Drug Manufacturers - Specialty & Generic
+YESD.TA,Real Estate,Real Estate - Development
+YHNF.TA,Consumer Defensive,Grocery Stores
+ZNKL.TA,Consumer Defensive,Packaged Foods
+ZOOZ.TA,Industrials,Electrical Equipment & Parts
+ZPRS.TA,Utilities,Utilities - Renewable
+ZUR.TA,Financial Services,Insurance - Property & Casualty

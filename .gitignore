@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+data/cache/
+reports/
+.env
+catboost_info/
+data/intraday/
+data/macro_cache/
+runs/
+dist/
